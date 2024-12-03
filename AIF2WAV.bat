@@ -28,13 +28,3 @@ echo Conversion completed! Converted .wav files are located in: "%output_folder%
 pause
 exit
 ::
-
-//
-
-
-###
-
-98989898989
-
-
-1232132
